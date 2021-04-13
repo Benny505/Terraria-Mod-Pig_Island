@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zLgCRwSAuPItqy3G9ypdRk4E8yR4Ce2KDyASaqA7UmCWQjBlBNDZ1CR10eHY38YNfMTkxzdOkP+keAYwLr5kiA==",
+  "success": true,
+  "projectFilePath": "\\\\fs-058\\studuser$\\Gr11\\z.mitchell1\\My Games\\Terraria\\ModLoader\\Mod Sources\\Pig_Island\\Pig_Island.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z.mitchell1\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
